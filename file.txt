@@ -1,0 +1,998 @@
+<ul class="ud-unstyled-list">
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-0" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2478" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2480">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2480" type="checkbox" checked="">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture completed. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      blabla
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">24. Module Introduction</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>4min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="true" class="curriculum-item-link--curriculum-item--KX9MD curriculum-item-link--is-current--31BPo">
+    <div tabindex="0" data-purpose="curriculum-item-2-1" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2481" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2483">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2483" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">25. What Are Components? And Why Is React All About Them?</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>7min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-2" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2484" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2486">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2486" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">26. React Code Is Written In A "Declarative Way"!</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>4min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-3" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2487" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2489">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2489" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">27. Creating a new React Project</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>12min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2490" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2492" aria-labelledby="u259-dropdown-trigger--2490" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="Section Code Snapshots (Github Link)" class="resource--ellipsis--1j7T_">Section Code Snapshots (Github Link)</span>
+                          </div>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-downloadable-resource"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="01-starting-setup.zip" class="resource--ellipsis--1j7T_">01-starting-setup.zip</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-4" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2493" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2495">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2495" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Start</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">28. The Starting Project</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-article"></use>
+            </svg>
+            <span>1min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2496" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2498" aria-labelledby="u259-dropdown-trigger--2496" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="Section Code Snapshots" class="resource--ellipsis--1j7T_">Section Code Snapshots</span>
+                          </div>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-downloadable-resource"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="01-starting-setup.zip" class="resource--ellipsis--1j7T_">01-starting-setup.zip</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-5" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2499" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2501">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2501" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">29. Analyzing a Standard React Project</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>13min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-6" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2502" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2504">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2504" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">30. Introducing JSX</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>4min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-7" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2505" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2507">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2507" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">31. How React Works</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>4min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-8" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2508" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2510">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2510" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">32. Building a First Custom Component</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>9min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-9" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2511" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2513">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2513" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">33. Writing More Complex JSX Code</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>5min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-10" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2514" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2516">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2516" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">34. Adding Basic CSS Styling</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>5min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2517" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2519" aria-labelledby="u259-dropdown-trigger--2517" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="ExpenseItem.css Code" class="resource--ellipsis--1j7T_">ExpenseItem.css Code</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-11" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2520" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2522">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2522" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">35. Outputting Dynamic Data &amp; Working with Expressions in JSX</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>8min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-12" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2523" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2525">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2525" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">36. Passing Data via "props"</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>13min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2526" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2528" aria-labelledby="u259-dropdown-trigger--2526" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="expenses.txt File" class="resource--ellipsis--1j7T_">expenses.txt File</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-13" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2529" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2531">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2531" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">37. Adding "normal" JavaScript Logic to Components</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>6min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-14" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2532" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2534">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2534" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">38. Splitting Components Into Multiple Components</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>11min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2535" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2537" aria-labelledby="u259-dropdown-trigger--2535" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="ExpenseDate.css Code" class="resource--ellipsis--1j7T_">ExpenseDate.css Code</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-15" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2538" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2540">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2540" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Start</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">Assignment 1: Time to Practice: React &amp; Component Basics</span>
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-16" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2541" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2543">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2543" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">39. The Concept of "Composition" ("children props")</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>13min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-17" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2544" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2546">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2546" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">40. A First Summary</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>4min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-18" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2547" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2549">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2549" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">41. A Closer Look At JSX</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>9min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-19" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2550" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2552">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2552" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">42. Organizing Component Files</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>3min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-20" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2553" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2555">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2555" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Play</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">43. An Alternative Function Syntax</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-play"></use>
+            </svg>
+            <span>3min</span>
+          </div>
+          <div>
+            <div class="popper--popper--2r2To">
+              <button type="button" aria-label="Resource list" id="u259-dropdown-trigger--2556" tabindex="0" aria-expanded="false" class="ud-btn udlite-btn ud-btn-xsmall udlite-btn-xsmall ud-btn-secondary udlite-btn-secondary ud-text-sm">
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-folder-open"></use>
+                </svg>
+                <span>Resources</span>
+                <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+                  <use xlink:href="#icon-expand"></use>
+                </svg>
+              </button>
+              <div id="u259-popper-content--2558" aria-labelledby="u259-dropdown-trigger--2556" class="popper--popper-content--2tG0H" style="top: 100%; right: 0px; width: 26rem;">
+                <div class="popper--animation-wrapper--1uUMV">
+                  <div class="dropdown--menu--27iQP dropdown--dropdown-menu--1ElA5" style="max-height: 28rem;">
+                    <ul class="ud-unstyled-list unstyled-list ud-block-list udlite-block-list">
+                      <li>
+                        <button type="button" class="ud-btn udlite-btn ud-btn-large udlite-btn-large ud-btn-ghost udlite-btn-ghost ud-text-sm udlite-text-sm resource--resource--315Oy ud-block-list-item udlite-block-list-item ud-block-list-item-small udlite-block-list-item-small ud-block-list-item-neutral udlite-block-list-item-neutral" role="button">
+                          <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-block-list-item-icon udlite-block-list-item-icon">
+                            <use xlink:href="#icon-open-in-new"></use>
+                          </svg>
+                          <div class="ud-block-list-item-content udlite-block-list-item-content">
+                            <span title="More on JavaScript Arrow Functions" class="resource--ellipsis--1j7T_">More on JavaScript Arrow Functions</span>
+                          </div>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-21" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2559" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2561">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2561" type="checkbox">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture incomplete. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Start</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">Quiz 1: Learning Check: React Basics, Components, Props &amp; JSX</span>
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li aria-current="false" class="curriculum-item-link--curriculum-item--KX9MD">
+    <div tabindex="0" data-purpose="curriculum-item-2-22" class="item-link item-link--common--RP3fp ud-custom-focus-visible" role="">
+      <div class="popper--popper--2r2To">
+        <div id="u259-popper-trigger--2562" tabindex="0">
+          <label class="curriculum-item-link--progress-toggle--1CMcg ud-toggle-input-container udlite-toggle-input-container ud-toggle-input-disabled udlite-toggle-input-disabled ud-text-sm udlite-text-sm" for="u259-checkbox--2564">
+            <input disabled="" data-purpose="progress-toggle-button" class="ud-sr-only udlite-sr-only ud-real-toggle-input udlite-real-toggle-input" id="u259-checkbox--2564" type="checkbox" checked="">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall ud-fake-toggle-input udlite-fake-toggle-input ud-fake-toggle-checkbox udlite-fake-toggle-checkbox">
+              <use xlink:href="#icon-tick"></use>
+            </svg>
+            <span class="ud-sr-only">Lecture completed. Progress cannot be changed for this item.</span>
+          </label>
+        </div>
+      </div>
+      <span class="ud-sr-only">Start</span>
+      <div class="curriculum-item-link--item-container--1ptOz">
+        <div class="ud-text-sm ud-focus-visible-target">
+          <div class="curriculum-item-link--curriculum-item-title--2hYub">
+            <span class="curriculum-item-link--curriculum-item-title-content--1SLoR">
+              <span class="truncate-with-tooltip--ellipsis--2-jEx" style="-webkit-line-clamp: 2;">
+                <span data-purpose="item-title">44. Module Resources</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div class="curriculum-item-link--bottom-row--1j052">
+          <div class="ud-text-xs curriculum-item-link--metadata--e17HG">
+            <svg aria-hidden="true" focusable="false" class="ud-icon udlite-icon ud-icon-xsmall udlite-icon-xsmall">
+              <use xlink:href="#icon-article"></use>
+            </svg>
+            <span>1min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
