@@ -1,8 +1,0 @@
-
-reusable building blocks in your user interface.
-
-Components are in the end just a combination of HTML code,
-
-CSS code for styling
-
-and possibly JavaScript code for some logic.

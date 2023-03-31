@@ -1,1 +1,0 @@
-jsx sysntax transform while doing npm start
